@@ -1,4 +1,4 @@
-# Alura Space
+# API Escola
 
 Este projeto foi desenvolvido durante as aulas do curso de [Curso de Django API 3](https://cursos.alura.com.br/course/api-django-3-versionamento-cabecalhos-cors) 
 <p></p>
